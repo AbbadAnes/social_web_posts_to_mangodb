@@ -19,4 +19,4 @@
 ## How To use the code ?
  - Clone the code.
  - Open main.py with your favorite i.d.e ( mine is Spyder ;) ) , update your current directory.
- - Run the code.
+ - Run the code (main.py)
